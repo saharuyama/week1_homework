@@ -4,7 +4,6 @@ A-10: サイコロ
 """
 
 # 自作関数
-
 import random
 
 def dice():
